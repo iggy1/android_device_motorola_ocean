@@ -14,9 +14,9 @@
 # limitations under the License.
 #
 
-ifneq ($(filter channel,$(TARGET_DEVICE)),)
+ifneq ($(filter ocean,$(TARGET_DEVICE)),)
 
-LOCAL_PATH := device/motorola/channel/
+LOCAL_PATH := device/motorola/ocean/
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
