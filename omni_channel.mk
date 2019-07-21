@@ -51,8 +51,8 @@ PRODUCT_PACKAGES += \
     libz
 
 
-PRODUCT_DEVICE := channel
-PRODUCT_NAME := omni_channel
+PRODUCT_DEVICE := ocean
+PRODUCT_NAME := omni_ocean
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := moto g(7) play
 PRODUCT_MANUFACTURER := motorola
