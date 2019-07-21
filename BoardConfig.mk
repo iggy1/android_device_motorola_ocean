@@ -14,10 +14,10 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/motorola/channel
+LOCAL_PATH := device/motorola/ocean
 
 TARGET_BOARD_PLATFORM := msm8953
-TARGET_BOOTLOADER_BOARD_NAME := channel
+TARGET_BOOTLOADER_BOARD_NAME := 
 TARGET_NO_BOOTLOADER := true
 
 # Recovery
